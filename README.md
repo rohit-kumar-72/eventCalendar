@@ -27,7 +27,7 @@ Follow these steps to run the app on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/task-manager-app.git
+   git clone https://github.com/rohit-kumar-72/eventCalendar.git
    cd task-manager-app
    ```
 
